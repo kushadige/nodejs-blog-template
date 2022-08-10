@@ -49,8 +49,6 @@ app.get('/posts/:title/', (req, res) => {
             
             res.render('post', post);
             res.redirect('/posts/' + titleParam);
-        } else {
-            console.log('Not a Match');
         }
     });
 });

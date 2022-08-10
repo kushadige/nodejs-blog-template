@@ -13,4 +13,17 @@ module.exports.pages = [
     }
 ];
 
-module.exports.posts = [];
+module.exports.posts = [
+    {
+        title: 'Post 1',
+        content: 'Ac tortor dignissim convallis aenean et tortor at risus viverra. Tempor orci eu lobortis elementum nibh tellus molestie. Gravida arcu ac tortor dignissim convallis aenean. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Faucibus scelerisque eleifend donec pretium. Et magnis dis parturient montes nascetur ridiculus. Cursus in hac habitasse platea. Pharetra massa massa ultricies mi quis hendrerit. Dictum varius duis at consectetur lorem donec massa sapien faucibus. Lobortis elementum nibh tellus molestie nunc non blandit massa. In mollis nunc sed id semper risus in hendrerit. Lectus nulla at volutpat diam. Imperdiet dui accumsan sit amet nulla facilisi.'
+    },
+    {
+        title: 'Post 2',
+        content: 'Fermentum posuere urna nec tincidunt praesent semper feugiat. Id aliquet risus feugiat in. Sagittis aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Nec ultrices dui sapien eget. Enim blandit volutpat maecenas volutpat blandit aliquam etiam erat velit. Et molestie ac feugiat sed lectus vestibulum mattis. Sit amet mattis vulputate enim nulla aliquet porttitor lacus luctus. Sed viverra ipsum nunc aliquet bibendum enim. Sit amet luctus venenatis lectus magna fringilla. Pulvinar sapien et ligula ullamcorper malesuada. Ornare arcu odio ut sem nulla pharetra. Vitae tortor condimentum lacinia quis vel eros donec ac odio. Bibendum ut tristique et egestas quis ipsum suspendisse ultrices. Nunc mattis enim ut tellus elementum sagittis vitae et leo. Ultrices neque ornare aenean euismod elementum nisi quis eleifend quam. Placerat orci nulla pellentesque dignissim. Purus semper eget duis at tellus at urna condimentum. Ut consequat semper viverra nam libero justo laoreet. Habitasse platea dictumst quisque sagittis purus sit amet.'
+    },
+    {
+        title: 'Post 3',
+        content: 'Arcu bibendum at varius vel. Purus semper eget duis at tellus at. Commodo sed egestas egestas fringilla phasellus. Morbi quis commodo odio aenean. Tempor id eu nisl nunc. Quis ipsum suspendisse ultrices gravida dictum. Metus dictum at tempor commodo ullamcorper a lacus vestibulum. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Sit amet venenatis urna cursus eget. Magnis dis parturient montes nascetur.'
+    }
+];
