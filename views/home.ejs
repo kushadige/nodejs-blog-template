@@ -1,0 +1,11 @@
+<%- include('partials/header') -%>
+
+<h1><%= title %></h1>
+<p><%= description %></p>
+
+<% posts.map(post => { %>
+    <h3><%= post.title %></h3>
+    <p><%= post.content %></p>
+<% }); %>
+
+<%- include('partials/footer') -%>
